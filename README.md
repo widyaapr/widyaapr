@@ -1,5 +1,17 @@
-<h1 align="center">Hi👋, I'm Widya Apriani</h1>
-<h3 align="center">I'm fresh graduate with Computer Science with a focus on Web Developer </h3>
+<h1 align="center">Hi, there👋</h1>
+<p align="center">
+    <i>
+        I'm Widya Apriani <br>
+        Currently learning to walk in Web Develover without falling on my bottom.<br>
+    </i>
+
+   <br>
+    <a href="https://www.linkedin.com/in/widyaapr">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+ 
+  
+</p>
 
 <!--
 **widyaapr/widyaapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
