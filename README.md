@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Widya Apriani</h1>
+<h3 align="center">I'm fresh graduate with Computer Science with a focus on Web Developer </h3>
 
 <!--
 **widyaapr/widyaapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
